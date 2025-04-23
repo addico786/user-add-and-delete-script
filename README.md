@@ -31,4 +31,9 @@ A simple and effective automation script designed to add and delete users on a L
 ### Add a User
 
 ```bash
-sudo bash user-add.sh
+./user-add.sh
+```
+##Delete a User
+```
+./user-del.sh
+```
